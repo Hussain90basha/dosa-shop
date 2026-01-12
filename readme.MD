@@ -12,3 +12,9 @@
 ## Egg Dosa
 * Dosa Batter
 * 1/2 eggs and Karam
+
+## Mashroom Dosa
+* Dosa Batter
+* Mashroom Masala
+* Oil
+
